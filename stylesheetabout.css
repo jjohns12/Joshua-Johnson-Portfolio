@@ -1,0 +1,136 @@
+body{background-color: rgba(246, 246, 150, 0.89);
+    margin:0;
+    padding:0;   
+   }
+   
+   header{
+       position: fixed:
+       top: 0;
+       left: 0;
+       width: 100%;
+       height: 165px;
+       background-image:url("computer.jpg");
+       background-size: cover;
+       margin-top:-20px;
+       
+   }
+   
+   header img {
+   margin-left: 40px;
+   margin-top: -20px;
+   visibility: hidden;
+   }
+   
+   h1,h2{
+       display: block;
+       color:#1592D5;
+       font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       margin-left:180px;
+       width: 820px;
+       margin-top: 105px;
+       font-size:36px;
+   
+   }
+
+   h2{
+margin-top: 30px;
+   }
+
+
+   
+   
+   
+   #sidebar{  background:rgba(21, 146, 213, 0.80);
+       width:140px;
+       height: 100%;
+       display: block;
+       position: absolute;
+       left:0px;
+       top:160px;
+}
+   
+   }
+   a{
+   font-size: 18px;
+   font-family: Impact,'Arial Narrow Bold', sans-serif;
+   }
+   
+   
+   #imagelist{
+       display:block;
+       font-size:15px;
+       width: 798px;
+       margin-left: 385px;
+       position: relative;
+   }
+       
+     #name{font-size:65px;
+   font-family: 'Libre Barcode 39 Text', cursive;
+   color:#1592D5;
+   margin-top:-206px;
+   margin-left:40px;
+   width:500px;   
+     }
+   
+     img{
+         border: 4px solid #1592D5;
+        
+     }
+     li {
+        
+        font-family: Impact;
+        font-size: 20px;
+        text-align: left;
+        margin-right: 50px;}
+
+    #quote{font-family: Georgia, Times, serif;
+    font-size: 24px;
+    color:#1592D5;
+    float: right;
+    margin: 50px 0px 10px 10px;
+    padding: 5px;
+    border-top: 3px solid #1592D5;
+    border-bottom: 3px solid #1592D5;
+    width:300px;
+    text-align: center;
+    display: inline;
+    margin-top: -210px;
+     }
+
+    #bio{
+margin-top: 20px;
+width:850px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-left: 180px;
+color:#1592D5;
+font-size:18px;
+
+}
+
+#personal{
+    margin-top: 20px;
+    width:850px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 180px;
+    color:#1592D5;
+    font-size:18px;
+}
+    
+#resume{
+    margin-left:180px;
+    padding: 0px;
+    margin-top: -20px;
+    margin-bottom: 0px;
+    
+}
+
+.work{
+color:#1592D5;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-size: 16px;
+margin-top: 5px;
+margin-left: 20px;
+}
+
+
+
